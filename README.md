@@ -16,5 +16,5 @@ Start the Bot with `node .`
 If you have questions or problems, you can join my Coding Server and ask there!
 You can find the Link in my Bio.
 
-<img src="https://octodex.github.com/images/yaktocat.png">
+<img src="https://media.discordapp.net/attachments/871695511911014439/883773836171034704/banner-schwarz.png">
 
