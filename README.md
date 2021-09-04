@@ -16,3 +16,5 @@ Start the Bot with `node .`
 If you have questions or problems, you can join my Coding Server and ask there!
 You can find the Link in my Bio.
 
+[Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
