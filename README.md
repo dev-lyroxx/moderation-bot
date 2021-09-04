@@ -1,4 +1,4 @@
-# Moderation-Bot
+# <img src="https://media.discordapp.net/attachments/871695511911014439/882904097328594944/encore-logo-schwarz.png"> Moderation-Bot
 A simple moderation Bot with Kick, Ban and Clear Command.
 I'm using the discord.js Version 12.5.3! Not V13.0.0
 
