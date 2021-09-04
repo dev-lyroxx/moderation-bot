@@ -14,7 +14,9 @@ Start the Bot with `node .`
 
 # Support
 If you have questions or problems, you can join my Coding Server and ask there!
-You can find the Link in my Bio.
+You can find the Link here.
 
 <img src="https://media.discordapp.net/attachments/871695511911014439/883773836171034704/banner-schwarz.png">
+
+# [CODING SERVER](https://discord.gg/FQST2jn6D6)
 
