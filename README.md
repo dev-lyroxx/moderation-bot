@@ -1,6 +1,7 @@
 # Moderation-Bot
 A simple moderation Bot with Kick, Ban and Clear Command.
-I'm using the discord.js Version 12.5.3! Not V13.0.0
+**I'm using the discord.js Version 12.5.3! Not V13.0.0
+So you must use this also.**
 
 # Packages
 `npm i discord.js`
