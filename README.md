@@ -7,4 +7,9 @@ discord.js | npm i discord.js
 
 # Bot Config
 You can edit the **config.json** File!
-Fill in you Bot Token and if you want, you can change the Embed Color or the Bot's Prefix.
+Fill in you Bot Token and if you want, 
+you can change the Embed Color or the Bot's Prefix.
+
+# Support
+If you have questions or problems, you can join my Coding Server and ask there!
+You can find the Link in my Bio.
